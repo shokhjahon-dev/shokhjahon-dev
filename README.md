@@ -1,12 +1,12 @@
 ![image](https://user-images.githubusercontent.com/112770922/188279656-833ea398-375c-484f-bdfb-319c2d00cd28.png)
-- 👋 Hi, My name is Shokhjahon.
-- 🌆 At the moment, I live in Samarkand, Uzbekistan.
-- ⚡️ I am 13 years old.
-- 👀 I’m interested in Learn Programming.
-- 🌱 I’m currently learning Python.
-- 💞 I love Programming.
-- 📱 My phone number: +998933541199 / +998906051199
-- ✨ Personal links for you: [Telegram](https://t.me/abdukhalimov_sh) | [Instagram](https://instagram.com/shokha.dev)
+- 👋 Hi, My name is <b>Shokhjahon.</b>
+- 🌆 At the moment, I live in <b>Samarkand, Uzbekistan.</b>
+- ⚡️ <strong>I am 13 years old.</strong>
+- 👀 I’m interested in <b>Learn Programming.</b>
+- 🌱 I’m currently learning <b>Python.</b>
+- 💞 <strong>I love Programming.</strong>
+- 📱 <b>My phone number:</b> <i>+998933541199</i> / <i>+998906051199</i>
+- ✨ <b>Personal links for you:</b> <i>[Telegram](https://t.me/abdukhalimov_sh)</i> | <i>[Instagram](https://instagram.com/shokha.dev)</i>
 <!---
 shokhjahon-dev/shokhjahon-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
