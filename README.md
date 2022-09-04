@@ -1,10 +1,12 @@
 ![image](https://user-images.githubusercontent.com/112770922/188279656-833ea398-375c-484f-bdfb-319c2d00cd28.png)
-- 👋 Hi, My name is <b>Shokhjahon.</b>
-- 🌆 At the moment, I live in <b>Samarkand, Uzbekistan.</b>
-- ⚡️ <strong>I am 13 years old.</strong>
+<h1 align="center">Hi 👋, I'm Shokhjahon</h1>
+<h3 align="center">⚡️I'm 13 years old.</h3>
+
+- 🌆 At the moment, I live in <b>Samarkand, Uzbekistan</b>.</strong>
 - 👀 I’m interested in <b>Learn Programming.</b>
 - 🌱 I’m currently learning <b>Python.</b>
 - 💞 <strong>I love Programming.</strong>
+- 💬 Ask me about **HTML and Python**
 - 📱 <b>My phone number:</b> <i>+998933541199</i> / <i>+998906051199</i>
 - ✨ <b>Personal links for you:</b> <i>[Telegram](https://t.me/abdukhalimov_sh)</i> | <i>[Instagram](https://instagram.com/shokha.dev)</i> | <i>[Vk](https://vk.com/shokhjahon_a)</i>
 
