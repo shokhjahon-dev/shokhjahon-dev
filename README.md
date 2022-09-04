@@ -7,6 +7,7 @@
 - 💞 <strong>I love Programming.</strong>
 - 📱 <b>My phone number:</b> <i>+998933541199</i> / <i>+998906051199</i>
 - ✨ <b>Personal links for you:</b> <i>[Telegram](https://t.me/abdukhalimov_sh)</i> | <i>[Instagram](https://instagram.com/shokha.dev)</i>
+
 <!---
 shokhjahon-dev/shokhjahon-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
