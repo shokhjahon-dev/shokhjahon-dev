@@ -4,9 +4,9 @@
 
 - 🌆 At the moment, I live in <b>Samarkand, Uzbekistan</b>.</strong>
 - 👀 I’m interested in <b>Learn Programming.</b>
-- 🌱 I’m currently learning <b>Python.</b>
+- 🌱 I’m currently learning <b>Python-Django.</b>
 - 💞 <strong>I love Programming.</strong>
-- 💬 Ask me about **HTML and Python**
+- 💬 Ask me about **HTML and Python, Django**
 - 📱 <b>My phone number:</b> <i>+998933541199</i> / <i>+998906051199</i>
 - ✨ <b>Personal links for you:
 
