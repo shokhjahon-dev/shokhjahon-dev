@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/112770922/189372075-0f581453-16b6-4ab8-a8c3-dc6b015b1599.png)
 <h1 align="center">Hi 👋, I'm Shokhjahon</h1>
-<h3 align="center">⚡️I'm 13 years old.</h3>
+<h3 align="center">⚡️I'm 14 years old.</h3>
 
 - 🌆 At the moment, I live in <b>Samarkand, Uzbekistan</b>.</strong>
 - 👀 I’m interested in <b>Learn Programming.</b>
