@@ -6,17 +6,17 @@
 - 👀 I’m interested in <b>Learn Programming.</b>
 - 🌱 I’m currently learning <b>Python-Django.</b>
 - 💞 <strong>I love Programming.</strong>
-- 💬 Ask me about **HTML and Python, Django**
+- 💬 Ask me about **Python-Backend**
 - 📱 <b>My phone number:</b> <i>+998933541199</i> / <i>+998906051199</i>
 - ✨ <b>Personal links for you:
 
-  [![Telegram](https://img.icons8.com/fluency/50/000000/telegram-app.png)](https://t.me/abdukhalimov_sh)
-  [![Instagram](https://img.icons8.com/fluency/50/000000/instagram-new.png)](https://instagram.com/shokha.dev)
+  [![Telegram](https://img.icons8.com/fluency/50/000000/telegram-app.png)](https://t.me/shokh711)
+  [![Instagram](https://img.icons8.com/fluency/50/000000/instagram-new.png)](https://instagram.com/111.shokh)
   [![WhatsApp](https://img.icons8.com/color/50/000000/whatsapp--v3.png)](https://wa.me/qr/7PKNVXXYTFN5J1)
-  [![TikTok](https://img.icons8.com/color/50/000000/tiktok--v1.png)](https://tiktok.com/@the.khalimov)
+  [![TikTok](https://img.icons8.com/color/50/000000/tiktok--v1.png)](https://tiktok.com/@111.shokh)
   [![VK](https://img.icons8.com/color/50/000000/vk-circled--v1.png)](https://vk.com/shokhjahon_a)
   [![GitHub](https://img.icons8.com/windows/50/000000/github.png)](https://github.com/shokhjahon-dev/)
-  [![Bio](https://img.icons8.com/color/50/000000/web.png)](https://shokha.ml)
+  [![Bio](https://img.icons8.com/color/50/000000/web.png)](https://shoxjahon.uz)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
